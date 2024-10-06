@@ -2,72 +2,113 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
+using TMPro;
 
 public class OutlineSelection : MonoBehaviour
 {
     private Transform highlight;
-    private Transform selection;
     private RaycastHit raycastHit;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public Inventory playerInventory;
+    public GameObject descriptionBoxPrefab;
+    public Canvas uiCanvas; // Reference to the UI Canvas
+    private GameObject currentDescriptionBox;
 
-    // Update is called once per frame
     void Update()
     {
-        // Highlight
+        HandleHighlight();
+        HandleSelection();
+    }
+
+    void HandleHighlight()
+    {
         if (highlight != null)
         {
             highlight.gameObject.GetComponent<Outline>().enabled = false;
             highlight = null;
         }
+
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         if (!EventSystem.current.IsPointerOverGameObject() && Physics.Raycast(ray, out raycastHit))
         {
             highlight = raycastHit.transform;
-            if (highlight.CompareTag("Interactable") && highlight != selection)
+            if (highlight.CompareTag("Interactable"))
             {
-                if (highlight.gameObject.GetComponent<Outline>() != null)
+                Outline outline = highlight.gameObject.GetComponent<Outline>();
+                if (outline == null)
                 {
-                    highlight.gameObject.GetComponent<Outline>().enabled = true;
+                    outline = highlight.gameObject.AddComponent<Outline>();
+                    outline.OutlineColor = Color.blue;
+                    outline.OutlineWidth = 2.0f;
                 }
-                else
-                {
-                    Outline outline = highlight.gameObject.AddComponent<Outline>();
-                    outline.enabled = true;
-                    highlight.gameObject.GetComponent<Outline>().OutlineColor = Color.blue;
-                    highlight.gameObject.GetComponent<Outline>().OutlineWidth = 2.0f;
-                }
+                outline.enabled = true;
             }
             else
             {
                 highlight = null;
             }
         }
+    }
 
-        // Selection
-        if (Input.GetMouseButtonDown(0))
+    void HandleSelection()
+    {
+        if (Input.GetMouseButtonDown(0) && highlight != null)
         {
-            if (highlight)
+            Debug.Log("Item clicked: " + highlight.gameObject.name);
+            ShowItemDescription(highlight.gameObject);
+        }
+    }
+
+    private void ShowItemDescription(GameObject obj)
+    {
+        ItemPickup itemPickup = obj.GetComponent<ItemPickup>();
+        if (itemPickup != null && descriptionBoxPrefab != null && uiCanvas != null)
+        {
+            Debug.Log("Showing description for item: " + itemPickup.itemScriptableObject.item.itemName);
+            if (currentDescriptionBox != null)
             {
-                if (selection != null)
-                {
-                    selection.gameObject.GetComponent<Outline>().enabled = false;
-                }
-                selection = raycastHit.transform;
-                selection.gameObject.GetComponent<Outline>().enabled = true;
-                highlight = null;
+                Destroy(currentDescriptionBox);
+            }
+
+            // Instantiate the description box as a child of the canvas
+            currentDescriptionBox = Instantiate(descriptionBoxPrefab, uiCanvas.transform);
+            Debug.Log("Description box instantiated: " + (currentDescriptionBox != null));
+            DescriptionBoxUI descriptionBoxUI = currentDescriptionBox.GetComponent<DescriptionBoxUI>();
+            if (descriptionBoxUI != null)
+            {
+                descriptionBoxUI.SetupDescription(itemPickup.itemScriptableObject.item, () => TryPickUpItem(obj));
+                Debug.Log("Description box setup complete");
             }
             else
             {
-                if(selection)
+                Debug.LogError("DescriptionBoxUI component not found on descriptionBoxPrefab");
+            }
+        }
+        else
+        {
+            Debug.LogError("ItemPickup component not found, descriptionBoxPrefab not assigned, or uiCanvas not assigned");
+        }
+    }
+
+    private void TryPickUpItem(GameObject obj)
+    {
+        ItemPickup itemPickup = obj.GetComponent<ItemPickup>();
+        if (itemPickup != null && playerInventory != null)
+        {
+            Item item = itemPickup.itemScriptableObject.item;
+            if (playerInventory.AddItem(item))
+            {
+                Destroy(obj);
+                if (currentDescriptionBox != null)
                 {
-                    selection.gameObject.GetComponent<Outline>().enabled = false;
-                    selection = null;
+                    Destroy(currentDescriptionBox);
+                    currentDescriptionBox = null;
                 }
+            }
+            else
+            {
+                Debug.Log("Inventory is full!");
             }
         }
     }
