@@ -541,9 +541,10 @@ GameObject:
   - component: {fileID: 718785157}
   - component: {fileID: 718785156}
   - component: {fileID: 718785155}
+  - component: {fileID: 718785158}
   m_Layer: 0
   m_Name: SampleClickMarker
-  m_TagString: Untagged
+  m_TagString: Interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -556,7 +557,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 718785153}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -634,6 +635,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 718785153}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &718785158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718785153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1653ba5205777469cce57ecfb95037, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  virtualCamera: {fileID: 1914801109}
 --- !u!1 &775126508
 GameObject:
   m_ObjectHideFlags: 0
@@ -1145,6 +1159,7 @@ MonoBehaviour:
   playerInventory: {fileID: 1338794332}
   descriptionBoxPrefab: {fileID: 3871560217132592161, guid: abcefef0f024ee04d9d3801df13ddee7, type: 3}
   uiCanvas: {fileID: 1826184271}
+  hoverUIPrefab: {fileID: 5432425959153165239, guid: 71d10506f677d7e468d7026b48f9839f, type: 3}
 --- !u!1 &1556098634
 GameObject:
   m_ObjectHideFlags: 0

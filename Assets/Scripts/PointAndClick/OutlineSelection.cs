@@ -14,19 +14,23 @@ public class OutlineSelection : MonoBehaviour
     public GameObject descriptionBoxPrefab;
     public Canvas uiCanvas; // Reference to the UI Canvas
     private GameObject currentDescriptionBox;
+    public GameObject hoverUIPrefab;
+    private GameObject currentHoverUI;
+
 
     void Update()
     {
-        HandleHighlight();
+        HandleHighlightAndHover();
         HandleSelection();
     }
 
-    void HandleHighlight()
+    void HandleHighlightAndHover()
     {
         if (highlight != null)
         {
             highlight.gameObject.GetComponent<Outline>().enabled = false;
             highlight = null;
+            HideHoverUI();
         }
 
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -43,11 +47,17 @@ public class OutlineSelection : MonoBehaviour
                     outline.OutlineWidth = 2.0f;
                 }
                 outline.enabled = true;
+                ShowHoverUI(raycastHit.point);
             }
             else
             {
                 highlight = null;
+                HideHoverUI();
             }
+        }
+        else
+        {
+            HideHoverUI();
         }
     }
 
@@ -55,8 +65,15 @@ public class OutlineSelection : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0) && highlight != null)
         {
-            Debug.Log("Item clicked: " + highlight.gameObject.name);
-            ShowItemDescription(highlight.gameObject);
+            ClickableCamera clickableCamera = highlight.GetComponent<ClickableCamera>();
+            if (clickableCamera != null)
+            {
+                clickableCamera.ActivateCamera();
+            }
+            else
+            {
+                ShowItemDescription(highlight.gameObject);
+            }
         }
     }
 
@@ -110,6 +127,36 @@ public class OutlineSelection : MonoBehaviour
             {
                 Debug.Log("Inventory is full!");
             }
+        }
+    }
+
+    private void ShowHoverUI(Vector3 worldPosition)
+    {
+        if (currentHoverUI == null && hoverUIPrefab != null && uiCanvas != null)
+        {
+            currentHoverUI = Instantiate(hoverUIPrefab, uiCanvas.transform);
+            HoverUI hoverUI = currentHoverUI.GetComponent<HoverUI>();
+            if (hoverUI != null)
+            {
+                hoverUI.Setup(worldPosition);
+            }
+        }
+        else if (currentHoverUI != null)
+        {
+            HoverUI hoverUI = currentHoverUI.GetComponent<HoverUI>();
+            if (hoverUI != null)
+            {
+                hoverUI.UpdatePosition(worldPosition);
+            }
+        }
+    }
+
+    private void HideHoverUI()
+    {
+        if (currentHoverUI != null)
+        {
+            Destroy(currentHoverUI);
+            currentHoverUI = null;
         }
     }
 }
