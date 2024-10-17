@@ -68,11 +68,21 @@ public class OutlineSelection : MonoBehaviour
             ClickableCamera clickableCamera = highlight.GetComponent<ClickableCamera>();
             if (clickableCamera != null)
             {
+                Debug.Log("Activating camera: " + highlight.gameObject.name);
                 clickableCamera.ActivateCamera();
             }
             else
             {
-                ShowItemDescription(highlight.gameObject);
+                ItemPickup itemPickup = highlight.GetComponent<ItemPickup>();
+                if (itemPickup != null)
+                {
+                    Debug.Log("Showing item description: " + highlight.gameObject.name);
+                    ShowItemDescription(highlight.gameObject);
+                }
+                else
+                {
+                    Debug.LogWarning("Clicked object is neither a camera nor an item: " + highlight.gameObject.name);
+                }
             }
         }
     }
@@ -88,9 +98,7 @@ public class OutlineSelection : MonoBehaviour
                 Destroy(currentDescriptionBox);
             }
 
-            // Instantiate the description box as a child of the canvas
             currentDescriptionBox = Instantiate(descriptionBoxPrefab, uiCanvas.transform);
-            Debug.Log("Description box instantiated: " + (currentDescriptionBox != null));
             DescriptionBoxUI descriptionBoxUI = currentDescriptionBox.GetComponent<DescriptionBoxUI>();
             if (descriptionBoxUI != null)
             {

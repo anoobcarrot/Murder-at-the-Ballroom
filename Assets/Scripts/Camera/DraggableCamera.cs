@@ -8,65 +8,64 @@ public class DraggableCamera : MonoBehaviour
     public float dragSpeed = 2f;
     public bool invertDrag = false;
 
-    [Header("Movement Constraints")]
-    public float minX = -10f;
-    public float maxX = 10f;
+    [Header("Horizontal Angle Constraints")]
+    public float minHorizontalAngle = -90f;
+    public float maxHorizontalAngle = 90f;
 
-    [Header("Angle Settings")]
-    [Range(0, 90)] public float cameraAngle = 45f;
+    private Vector3 lastMousePosition;
+    private float rotationY = 0f;
+    private bool isDragging = false;
+    private Quaternion initialRotation;
 
-    private Vector3 dragOrigin;
-    private Camera mainCamera;
-    private float yPosition;
-    private float zPosition;
-
-    void Start()
+    private void Start()
     {
-        mainCamera = Camera.main;
-
-        // Set initial camera angle
-        transform.rotation = Quaternion.Euler(cameraAngle, 0, 0);
-
-        // Store initial Y and Z positions
-        yPosition = transform.position.y;
-        zPosition = transform.position.z;
+        initialRotation = transform.rotation;
+        rotationY = initialRotation.eulerAngles.y;
     }
 
-    void Update()
+    private void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
-            dragOrigin = Input.mousePosition;
-            return;
+            isDragging = true;
+            lastMousePosition = Input.mousePosition;
         }
-
-        if (!Input.GetMouseButton(0)) return;
-
-        Vector3 pos = mainCamera.ScreenToViewportPoint(Input.mousePosition - dragOrigin);
-        Vector3 move = new Vector3(pos.x * dragSpeed, 0, 0);
-
-        if (invertDrag)
+        else if (Input.GetMouseButtonUp(0))
         {
-            move = -move;
+            isDragging = false;
         }
 
-        Vector3 newPosition = transform.position + move;
+        if (isDragging)
+        {
+            Vector3 deltaMouse = Input.mousePosition - lastMousePosition;
+            float mouseX = deltaMouse.x * dragSpeed * Time.deltaTime;
 
-        // Clamp the X position
-        newPosition.x = Mathf.Clamp(newPosition.x, minX, maxX);
+            if (invertDrag)
+            {
+                mouseX = -mouseX;
+            }
 
-        // Maintain Y and Z positions
-        newPosition.y = yPosition;
-        newPosition.z = zPosition;
+            // Calculate rotation
+            rotationY += mouseX;
 
-        transform.position = newPosition;
+            // Clamp horizontal rotation
+            float clampedRotationY = Mathf.Clamp(rotationY - initialRotation.eulerAngles.y, minHorizontalAngle, maxHorizontalAngle);
+            rotationY = clampedRotationY + initialRotation.eulerAngles.y;
 
-        dragOrigin = Input.mousePosition;
+            // Apply rotation to the camera (only around Y-axis)
+            transform.rotation = Quaternion.Euler(initialRotation.eulerAngles.x, rotationY, initialRotation.eulerAngles.z);
+
+            lastMousePosition = Input.mousePosition;
+        }
     }
 
-    public void SetCameraAngle(float angle)
+    public void SetDragSpeed(float speed)
     {
-        cameraAngle = Mathf.Clamp(angle, 0, 90);
-        transform.rotation = Quaternion.Euler(cameraAngle, 0, 0);
+        dragSpeed = speed;
+    }
+
+    public void ToggleInvertDrag(bool invert)
+    {
+        invertDrag = invert;
     }
 }
