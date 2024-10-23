@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: Cylinder
+  m_Name: Roses
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
-    itemName: 
-    itemDescription: 
-    itemIcon: {fileID: 0}
-    maxStackSize: 0
+    itemName: Roses
+    itemDescription: "A bouquet with a card that says \u201CBreak a leg, love!\u201D
+      placed backstage. "
+    itemIcon: {fileID: 21300000, guid: 546cd3022770dfa4394e61d1d4a3ae23, type: 3}
+    maxStackSize: 1
