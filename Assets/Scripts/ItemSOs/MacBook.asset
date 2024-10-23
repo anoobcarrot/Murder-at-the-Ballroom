@@ -9,11 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 08c39d2957100404386ba4e46b793a7a, type: 3}
   m_Name: MacBook
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
     itemName: MacBook
     itemDescription: This is a MacBook
+    itemClue: The murderer used this before
     itemIcon: {fileID: -1063721699, guid: c4b26082c54796a4e9a46a007cf3d7a1, type: 3}
     maxStackSize: 1

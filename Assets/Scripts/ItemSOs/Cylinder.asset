@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Cylinder
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
-    itemName: 
-    itemDescription: 
+    itemName: Cylinder
+    itemDescription: This is a cylinder
+    itemClue: 
     itemIcon: {fileID: 0}
     maxStackSize: 0

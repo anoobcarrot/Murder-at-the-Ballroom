@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Roses
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
-    itemName: Roses
-    itemDescription: "A bouquet with a card that says \u201CBreak a leg, love!\u201D
-      placed backstage. "
-    itemIcon: {fileID: 21300000, guid: 546cd3022770dfa4394e61d1d4a3ae23, type: 3}
-    maxStackSize: 1
+    itemName: 
+    itemDescription: 
+    itemClue: 
+    itemIcon: {fileID: 0}
+    maxStackSize: 0

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Inventory : MonoBehaviour
 {
@@ -9,6 +10,9 @@ public class Inventory : MonoBehaviour
 
     public delegate void OnInventoryChanged();
     public OnInventoryChanged onInventoryChanged;
+
+    [SerializeField] private ItemInUICanvas itemInUICanvasPrefab;
+    [SerializeField] private GridLayoutGroup inventoryGrid;
 
     public bool AddItem(Item item)
     {
@@ -25,9 +29,19 @@ public class Inventory : MonoBehaviour
         if (items.Count < inventorySize)
         {
             items.Add(new ItemSlot(item, 1));
+
+            // Instantiate a new instance of the Item UI prefab 
+            // Set Parent to grid layout
+            ItemInUICanvas itemUI = Instantiate(itemInUICanvasPrefab, inventoryGrid.transform);
+
+            // Set all the values from the itemSO 
+            itemUI.itemImage.sprite = item.itemIcon;
+            itemUI.itemLabel.text = item.itemName;
+
             OnInventoryChangedSafe();
             return true;
         }
+
 
         Debug.Log("Inventory is full!");
         return false;
