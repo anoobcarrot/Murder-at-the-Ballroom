@@ -3072,6 +3072,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items: []
   inventorySize: 20
+  itemInUICanvasPrefab: {fileID: 0}
+  inventoryGrid: {fileID: 0}
 --- !u!4 &1135408121
 Transform:
   m_ObjectHideFlags: 0
@@ -3629,7 +3631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1395350731}
   - component: {fileID: 1395350730}
-  m_Layer: 15
+  m_Layer: 0
   m_Name: Susie_Side_Eye
   m_TagString: Interactable
   m_Icon: {fileID: 0}
