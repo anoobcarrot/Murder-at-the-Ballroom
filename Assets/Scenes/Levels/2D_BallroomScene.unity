@@ -1798,8 +1798,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 24
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417267
 MonoBehaviour:
@@ -1817,8 +1817,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 23
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417268
 MonoBehaviour:
@@ -1836,8 +1836,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 22
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417269
 MonoBehaviour:
@@ -1855,7 +1855,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 21
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417270
@@ -1874,7 +1874,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 20
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417271
@@ -1893,7 +1893,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 19
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417272
@@ -1912,8 +1912,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 18
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417273
 MonoBehaviour:
@@ -1931,8 +1931,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 17
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417274
 MonoBehaviour:
@@ -1950,8 +1950,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 16
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417275
 MonoBehaviour:
@@ -1969,8 +1969,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 15
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417276
 MonoBehaviour:
@@ -1988,7 +1988,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 14
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417277
@@ -2007,7 +2007,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 13
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417278
@@ -2026,7 +2026,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 12
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417279
@@ -2045,8 +2045,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 11
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417280
 MonoBehaviour:
@@ -2064,8 +2064,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 10
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417281
 MonoBehaviour:
@@ -2083,8 +2083,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 9
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417282
 MonoBehaviour:
@@ -2102,8 +2102,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 8
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417283
 MonoBehaviour:
@@ -2121,7 +2121,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 7
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417284
@@ -2140,7 +2140,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 6
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417285
@@ -2159,7 +2159,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 5
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417286
@@ -2178,8 +2178,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 4
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &97417287
 MonoBehaviour:
@@ -2197,7 +2197,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 3
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417288
@@ -2216,7 +2216,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 2
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417289
@@ -2235,7 +2235,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 1
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &97417290
@@ -2254,8 +2254,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 0
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
   Audio: {fileID: 0}
 --- !u!1001 &156412945
 PrefabInstance:
@@ -2972,7 +2972,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 0
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195160
@@ -2991,7 +2991,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 24
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195161
@@ -3010,7 +3010,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 23
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195162
@@ -3029,7 +3029,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 22
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195163
@@ -3048,7 +3048,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 21
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195164
@@ -3067,7 +3067,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 20
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195165
@@ -3086,7 +3086,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 19
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195166
@@ -3105,7 +3105,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 18
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195167
@@ -3124,7 +3124,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 17
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195168
@@ -3143,7 +3143,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 16
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195169
@@ -3162,7 +3162,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 15
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195170
@@ -3181,7 +3181,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 14
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195171
@@ -3200,7 +3200,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 13
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195172
@@ -3219,7 +3219,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 12
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195173
@@ -3238,7 +3238,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 11
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195174
@@ -3257,7 +3257,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 10
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195175
@@ -3276,7 +3276,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 9
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195176
@@ -3295,7 +3295,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 8
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195177
@@ -3314,7 +3314,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 7
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195178
@@ -3333,7 +3333,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 6
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195179
@@ -3352,7 +3352,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 5
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195180
@@ -3371,7 +3371,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 4
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &247195181
@@ -3390,7 +3390,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 3
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195182
@@ -3409,7 +3409,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 2
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &247195183
@@ -3428,7 +3428,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 1
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!43 &258444392
@@ -3625,8 +3625,8 @@ Transform:
   m_GameObject: {fileID: 286783696}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -32.9, y: -22.9, z: -0.8}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalPosition: {x: -14.8, y: -16.52, z: -0.5}
+  m_LocalScale: {x: 2.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 97417215}
@@ -3673,8 +3673,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
-  m_Color: {r: 1, g: 0, b: 0.7619047, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3719,63 +3719,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 25
-  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-304.5,\"yPos\":30},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CYou must have been thrilled to be here tonight. See anything suspicious?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":184.5,\"yPos\":271},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CHow did you feel when Madame Mirage fell?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":641.5,\"yPos\":32},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C: \\n\u201CWere you backstage before the show?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-949.5,\"yPos\":-80},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CNormal drama? Like what?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-952.5,\"yPos\":50},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CWhat about Dexter? Did you see him?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-943.5,\"yPos\":200},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CAnyone else stand out to you tonight?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-216.5,\"yPos\":543},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CDid you notice anything unusual about her performance?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":158.5,\"yPos\":589},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CYou seemed really invested in her every move. Why?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":466.5,\"yPos\":527},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CWere you close enough to hear anything she said?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1347.5,\"yPos\":-153},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CWhat did you see Susie do backstage?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1326.5,\"yPos\":28},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B: \\n\u201CWhat did you say to Madame Mirage before the show?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1338.5,\"yPos\":219},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CDid you see Ginny or Dexter backstage too?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":191,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\\\"Eeeeeee,
+  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-578.5,\"yPos\":30},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CYou must have been thrilled to be here tonight. See anything suspicious?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-89.5,\"yPos\":271},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CHow did you feel when Madame Mirage fell?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":367.5,\"yPos\":32},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C: \\n\u201CWere you backstage before the show?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1223.5,\"yPos\":-80},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CNormal drama? Like what?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1226.5,\"yPos\":50},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CWhat about Dexter? Did you see him?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1217.5,\"yPos\":200},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CAnyone else stand out to you tonight?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-490.5,\"yPos\":543},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CDid you notice anything unusual about her performance?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-115.5,\"yPos\":589},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CYou seemed really invested in her every move. Why?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":192.5,\"yPos\":527},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CWere you close enough to hear anything she said?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1073.5,\"yPos\":-153},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CWhat did you see Susie do backstage?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1052.5,\"yPos\":28},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B: \\n\u201CWhat did you say to Madame Mirage before the show?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1064.5,\"yPos\":219},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CDid you see Ginny or Dexter backstage too?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":-82,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\\\"Eeeeeee,
     I've waited my whole life to be asked about Madam Mirage!\\\"\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-665.5,\"yPos\":16},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201COh
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-939.5,\"yPos\":16},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201COh
     my gosh, yesss! It was the BEST night... until it wasn\u2019t. But I didn\u2019t
     see anything bad. Just... everyone\u2019s normal drama.\u201D\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1218.5,\"yPos\":-108},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Giggling):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1492.5,\"yPos\":-108},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Giggling):
     \u201COh, you know. Like Susie arguing with Ginny. But I thought they were just
     being... you know, sisters. But Susie looked like she wanted to... I dunno, do
     something bad. Maybe ask another audience member fof insights? Everyone enjoys
     their fabulous drama.\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1215.5,\"yPos\":48},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Shrugs):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1488.5,\"yPos\":48},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Shrugs):
     \u201CDexter was all over the place. He even dropped his wig cap near the stage.
     But nobody noticed, and he was gone before anyone could pick it up. Maybe he
     was hiding something.\u201D\",\"parentUIDs\":[6],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1219.5,\"yPos\":197},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nodding):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1493.5,\"yPos\":197},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nodding):
     \u201CYeah, Ginny seemed really... jumpy. And he left the bathroom in such a
     rush. You should check if there\u2019s anything left behind there.\u201D\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":187.5,\"yPos\":411},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CFeel?
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-86.5,\"yPos\":411},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CFeel?
     I... I felt... lost. Like someone took my whole world and just... crushed it.
     But maybe she wanted it that way\u2014wanted to go out in a blaze of glory.\u201D\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-282.5,\"yPos\":722},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighs):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-556.5,\"yPos\":722},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighs):
     \u201CShe looked... like something was on her mind.  Maybe ask Big Daddy Blaze?
     Mirage would confine in him during pre show smoke breaks.\\\"\",\"parentUIDs\":[12],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":157.5,\"yPos\":734},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Eagerly):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-116.5,\"yPos\":734},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Eagerly):
     \u201COh, I am! I know everything about her\u2014every performance, every costume
     change, even her favourite makeup brand. Sometimes, when I watch closely enough,
     I can see what she\u2019s thinking. But tonight, she looked... worried. Check
     her makeup bag. It might be there\u2014something\u2019s off.\u201D\",\"parentUIDs\":[13],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":508.5,\"yPos\":699},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Excitedly):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":236.5,\"yPos\":699},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Excitedly):
     \u201CI was! I was right by the front. She whispered something... but I couldn\u2019t
     catch it all. It was something about \u2018time running out\u2019 and... I think
     she said \u2018lighting.\u2019 Maybe check the control panel backstage?\u201D\",\"parentUIDs\":[14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1066.5,\"yPos\":17},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CM-maybe...
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":797.5,\"yPos\":17},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CM-maybe...
     I mean, I was only there for a second! Just to wish her luck! But then... then
     Susie came over, and I left. I didn\u2019t want to get in her way.\u201D\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1648.5,\"yPos\":-172},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Hesitantly):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1374.5,\"yPos\":-172},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Hesitantly):
     \u201CShe was... near the lighting controls. I thought she was just fixing something,
     but she looked... sneaky. Maybe ask another participant - they might have seen
     more backstage?\_\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1634.5,\"yPos\":12},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighs):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1360.5,\"yPos\":12},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighs):
     \u201CI\u2014I wished her luck. Told her I\u2019d always be her biggest fan,
     no matter what. But she just... brushed me off. Said I should... \u2018step back
     and let the real stars shine.\u2019 So, I left her the bouquet. Maybe it\u2019s
     still there. Maybe you\u2019ll find something I missed.\u201D\\n\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Fan
-    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1650.5,\"yPos\":192},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods):
+    Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1377.5,\"yPos\":193},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods):
     \u201CI did! Dexter was arguing with Madame by the dressing room door, but he
     stormed off before I could get close. Ginny... well, he just looked lost. He
     kept staring at the lipstick on the mirror. I thought it was just nerves, but
@@ -3783,8 +3783,8 @@ MonoBehaviour:
     Atic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: Fan Atic
-  DefaultSprite: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
-  DefaultFont: {fileID: 0}
+  DefaultSprite: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
+  DefaultFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   NodeSerializedDataList:
   - {fileID: 97417290}
   - {fileID: 97417289}
@@ -3811,8 +3811,8 @@ MonoBehaviour:
   - {fileID: 97417268}
   - {fileID: 97417267}
   - {fileID: 97417266}
-  ContinueFont: {fileID: 0}
-  EndConversationFont: {fileID: 0}
+  ContinueFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  EndConversationFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Event:
     m_PersistentCalls:
       m_Calls: []
@@ -4004,6 +4004,26 @@ PrefabInstance:
     - target: {fileID: 6651541137645078243, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970730987259756570, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
+      propertyPath: m_fontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970730987259756570, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+    - target: {fileID: 6970730987259756570, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970730987259756570, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970730987259756570, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8005869880152560439, guid: d0e794cc76832f24897bdd7745ad768c, type: 3}
       propertyPath: m_IsActive
@@ -4319,8 +4339,8 @@ Transform:
   m_GameObject: {fileID: 361401382}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.37, y: -17.8, z: -1.1}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalPosition: {x: -37.5, y: -22.7, z: -0.6}
+  m_LocalScale: {x: 4, y: 4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 247195133}
@@ -4339,50 +4359,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 25
-  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-629.5,\"yPos\":40},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A: \\n\u201CYou seemed to be watching everything tonight. See anything unusual?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-145.5,\"yPos\":220},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CHow did you and Madame Mirage get along?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":272.5,\"yPos\":34},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\nWhat were you doing near the bathroom before the show?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1190.5,\"yPos\":-73},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A: \\nPretending what? That they weren\u2019t out to get Madame?\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1193.5,\"yPos\":61},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CDid you talk to Dexter? He mentioned seeing you earlier.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1180.5,\"yPos\":216},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1110,\"yPos\":339},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A: \\n\u201CYou seemed to be watching everything tonight. See anything unusual?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1594,\"yPos\":519},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CHow did you and Madame Mirage get along?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2012,\"yPos\":333},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\nWhat were you doing near the bathroom before the show?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":548,\"yPos\":226},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A: \\nPretending what? That they weren\u2019t out to get Madame?\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":546,\"yPos\":360},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CDid you talk to Dexter? He mentioned seeing you earlier.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":559,\"yPos\":515},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
     C:\\n\u201CWhat do you know about the scorecards? Someone\u2019s note seemed...
-    off.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-514.5,\"yPos\":465},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CDid you want to live up to her or take her place?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-147.5,\"yPos\":462},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CWere you upset about something she did? Someone said you argued.\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":202.5,\"yPos\":475},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CDid you give her anything tonight? Or leave anything behind?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":910.5,\"yPos\":-89},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CDid you see anyone while you were there?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":915.5,\"yPos\":73},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CDid you go into the bathroom? Anyone see you?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":908.5,\"yPos\":248},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CWere you with Madame Mirage before she died?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":-147.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I
+    off.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1225,\"yPos\":764},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CDid you want to live up to her or take her place?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1592,\"yPos\":761},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CWere you upset about something she did? Someone said you argued.\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1942,\"yPos\":774},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CDid you give her anything tonight? Or leave anything behind?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2652,\"yPos\":210},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CDid you see anyone while you were there?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2655,\"yPos\":372},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CDid you go into the bathroom? Anyone see you?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2648,\"yPos\":547},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CWere you with Madame Mirage before she died?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":1592,\"yPos\":321},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I
     don't know why you'd want to talk to little old me...\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny
-    Tonic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-900.5,\"yPos\":29},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CI-I
+    Tonic\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":839,\"yPos\":328},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CI-I
     wasn\u2019t watching, I was just... trying to stay out of the way. But... yeah,
-    I did see some things. Everyone\u2019s so busy pretending.\u201D\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-143.5,\"yPos\":332},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CWe...
+    I did see some things. Everyone\u2019s so busy pretending.\u201D\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1596,\"yPos\":631},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CWe...
     got along fine, I guess. She was always so perfect. I could never live up to
-    her. Never...\u201D\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":608.5,\"yPos\":24},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CI...
+    her. Never...\u201D\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2348,\"yPos\":323},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CI...
     I just needed a break. Everything was so loud, so bright. I felt like I was drowning
-    in all those sequins and eyes.\u201D\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1497.5,\"yPos\":-107},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods
+    in all those sequins and eyes.\u201D\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":242,\"yPos\":192},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods
     Slowly): \u201CYeah... exactly. I saw Susie messing with something in the bathroom.
     She left in a hurry, but there\u2019s a prescription bottle in the sink. Check
-    it. Madame was supposed to be off those pills.\u201D\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1511.5,\"yPos\":55},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Mumbling):
+    it. Madame was supposed to be off those pills.\u201D\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":227,\"yPos\":354},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Mumbling):
     \u201CWe talked... but it wasn\u2019t anything. He was upset. Said Madame was
     being unreasonable. But he left her something in her dressing room\u2014maybe
-    it\u2019s still there.\u201D\",\"parentUIDs\":[8],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1498.5,\"yPos\":218},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Blinking):
+    it\u2019s still there.\u201D\",\"parentUIDs\":[8],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":241,\"yPos\":517},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Blinking):
     \u201COh, those? Madame told me sometimes the judges write their real thoughts
     on the back, like a diary entry. Check them. Petty Cake\u2019s handwriting is
-    all over one of them\u2014it wasn\u2019t exactly flattering.\u201D\",\"parentUIDs\":[9],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-546.5,\"yPos\":607},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Whispering):
+    all over one of them\u2014it wasn\u2019t exactly flattering.\u201D\",\"parentUIDs\":[9],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1193,\"yPos\":916},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Whispering):
     \u201CTake her place? No, never! I just... wanted her to notice me. She had everything.
     I even gave her that bouquet backstage... but I don\u2019t know if she read the
-    note I left. It\u2019s still there, maybe.\u201D\",\"parentUIDs\":[13],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-161.5,\"yPos\":612},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Wincing):
+    note I left. It\u2019s still there, maybe.\u201D\",\"parentUIDs\":[13],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1569,\"yPos\":915},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Wincing):
     \u201CWe argued, yes. But it was nothing serious. Just about family stuff. But...
     if you want to know, I left my earrings in the bathroom after. Look for them\u2014they
-    might have... something to tell you.\u201D\",\"parentUIDs\":[14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":215.5,\"yPos\":603},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Shrugs):
+    might have... something to tell you.\u201D\",\"parentUIDs\":[14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1956,\"yPos\":902},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Shrugs):
     \u201CI\u2014maybe I left a message. On the mirror in the bathroom. Just... something
-    I wanted her to read. But she didn\u2019t take me seriously. Nobody ever does.\u201D\",\"parentUIDs\":[15],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1225.5,\"yPos\":-142},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods):
+    I wanted her to read. But she didn\u2019t take me seriously. Nobody ever does.\u201D\",\"parentUIDs\":[15],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2965,\"yPos\":157},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods):
     \u201CYes, Dexter walked by. He looked... different. Distracted. Check the bathroom
     mirror. He left something there, I think\u2014something about wanting to \u2018fix\u2019
-    things.\u201D\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1225.5,\"yPos\":72},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nervous):
+    things.\u201D\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2965,\"yPos\":371},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nervous):
     \u201CYes, I went in, but only for a second. Jasmine, the bathroom attendant,
-    saw me. She saw Susie too. She might have heard us... talking.\u201D\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1222.5,\"yPos\":288},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Shaking
+    saw me. She saw Susie too. She might have heard us... talking.\u201D\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ginny\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":2962,\"yPos\":587},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Shaking
     Head): \u201CNo, I\u2014I couldn\u2019t face her. But I left her something in
     the bathroom before the show. It\u2019s on the vanity\u2014something to help
     her relax. But I didn\u2019t think she\u2019d... I didn\u2019t mean for her to
@@ -4390,7 +4410,7 @@ MonoBehaviour:
   saveVersion: 110
   DefaultName: Ginny
   DefaultSprite: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
-  DefaultFont: {fileID: 0}
+  DefaultFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   NodeSerializedDataList:
   - {fileID: 247195159}
   - {fileID: 247195183}
@@ -4417,8 +4437,8 @@ MonoBehaviour:
   - {fileID: 247195162}
   - {fileID: 247195161}
   - {fileID: 247195160}
-  ContinueFont: {fileID: 0}
-  EndConversationFont: {fileID: 0}
+  ContinueFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  EndConversationFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Event:
     m_PersistentCalls:
       m_Calls: []
@@ -4501,7 +4521,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
-  m_Color: {r: 1, g: 0.29797828, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
@@ -4568,13 +4588,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Scene 1: Madame Mirage has just been declared dead. \n\nFind out who the
-    killer was by investigating the ballroom she dropped dead gorgeously in.\n\nClues
-    will be stored in an inventory and can be accessed by pressing [i]. \n\nYou have
-    two chances to guess the killer before you become the next victim."
+  m_text: 'HINT: Clues will be stored in an inventory and can be accessed by pressing
+    [ i ]. '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e95f9e40bd1024ca9a94956ba9783f2c, type: 2}
-  m_sharedMaterial: {fileID: 2052675879307914023, guid: e95f9e40bd1024ca9a94956ba9783f2c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  m_sharedMaterial: {fileID: 3398770730718274081, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4598,13 +4616,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -4634,7 +4652,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -1118.1619, w: 0}
+  m_margin: {x: 0, y: 0, z: -231.28345, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4728,7 +4746,7 @@ Transform:
   m_GameObject: {fileID: 468894988}
   serializedVersion: 2
   m_LocalRotation: {x: 0.5403822, y: -0, z: -0, w: 0.84141976}
-  m_LocalPosition: {x: 3.3399992, y: -2.85, z: -3.14}
+  m_LocalPosition: {x: -0.1, y: -2.85, z: -3.14}
   m_LocalScale: {x: 0.1, y: 0.099999994, z: 0.099999994}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -4784,6 +4802,38 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2088870227402585040, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_Spacing
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 3398770730718274081, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2437871028592879326, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2500226115934009261, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0.4
@@ -4798,11 +4848,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2500226115934009261, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2500226115934009261, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2500226115934009261, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_LocalScale.z
@@ -4810,11 +4860,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2500226115934009261, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 576.77
+      value: 603
       objectReference: {fileID: 0}
     - target: {fileID: 2500226115934009261, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 517
+      value: 621
       objectReference: {fileID: 0}
     - target: {fileID: 3874207415075858740, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_Pivot.x
@@ -4894,6 +4944,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3874207415075858740, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4839971644981050958, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4839971644981050958, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+    - target: {fileID: 4839971644981050958, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4839971644981050958, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 3398770730718274081, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+    - target: {fileID: 4839971644981050958, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4839971644981050958, guid: 73a289396401fef45ac8539d22bea49d, type: 3}
+      propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5103,100 +5177,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &629490493
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 629490494}
-  - component: {fileID: 629490495}
-  m_Layer: 0
-  m_Name: Spot Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &629490494
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 629490493}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.7070215, y: 0.010983351, z: -0.010983351, w: 0.7070215}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1064367605}
-  m_LocalEulerAnglesHint: {x: 90, y: 1.78, z: 0}
---- !u!108 &629490495
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 629490493}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 0
-  m_Shape: 0
-  m_Color: {r: 0, g: 0.06589057, b: 0.5754717, a: 1}
-  m_Intensity: 10
-  m_Range: 10
-  m_SpotAngle: 134.30939
-  m_InnerSpotAngle: 7.2
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 2
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
 --- !u!43 &636364973
 Mesh:
   m_ObjectHideFlags: 0
@@ -5419,8 +5399,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 0
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!4 &661436351
 Transform:
@@ -5453,7 +5433,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 3
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436353
@@ -5472,7 +5452,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 2
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436354
@@ -5491,7 +5471,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 1
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436355
@@ -5510,7 +5490,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 9
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436356
@@ -5529,7 +5509,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 8
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436357
@@ -5548,7 +5528,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 7
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436358
@@ -5567,8 +5547,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 6
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436359
 MonoBehaviour:
@@ -5586,8 +5566,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 5
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436360
 MonoBehaviour:
@@ -5605,8 +5585,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 4
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436361
 MonoBehaviour:
@@ -5624,8 +5604,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 24
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436362
 MonoBehaviour:
@@ -5643,8 +5623,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 23
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436363
 MonoBehaviour:
@@ -5662,8 +5642,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 22
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436364
 MonoBehaviour:
@@ -5681,7 +5661,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 21
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436365
@@ -5700,7 +5680,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 20
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436366
@@ -5719,7 +5699,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 19
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436367
@@ -5738,8 +5718,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 18
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436368
 MonoBehaviour:
@@ -5757,8 +5737,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 17
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436369
 MonoBehaviour:
@@ -5776,8 +5756,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 16
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436370
 MonoBehaviour:
@@ -5795,7 +5775,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 15
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436371
@@ -5814,7 +5794,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 14
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436372
@@ -5833,7 +5813,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 13
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &661436373
@@ -5852,8 +5832,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 12
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436374
 MonoBehaviour:
@@ -5871,8 +5851,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 11
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &661436375
 MonoBehaviour:
@@ -5890,8 +5870,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 10
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &697313373
 GameObject:
@@ -5952,7 +5932,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5977,13 +5957,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -6016,7 +5996,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &697313376
@@ -6334,8 +6314,8 @@ Transform:
   m_GameObject: {fileID: 834230959}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.27, y: -7, z: -19.28}
-  m_LocalScale: {x: 0.27, y: 1.01, z: 0.8}
+  m_LocalPosition: {x: 19.3, y: -4.5, z: -17.5}
+  m_LocalScale: {x: 0.27, y: 1.76, z: 0.8}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1093384363}
@@ -6961,7 +6941,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6986,8 +6966,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7025,7 +7005,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1010108447
@@ -7432,7 +7412,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 7f0ddfcc3227e7a4f8851ad83614f353, type: 3}
-  m_Color: {r: 0.918155, g: 0.6745283, b: 1, a: 1}
+  m_Color: {r: 0.46248516, g: 0.3726415, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7451,11 +7431,10 @@ Transform:
   m_GameObject: {fileID: 1064367603}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2, y: 34.48, z: -0.79999995}
-  m_LocalScale: {x: 12.5, y: 13, z: 1}
+  m_LocalPosition: {x: -0.2, y: 33.9, z: -0.79999995}
+  m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 629490494}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1082600861
@@ -7519,8 +7498,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
-  m_Color: {r: 0, g: 0.6764393, b: 1, a: 1}
+  m_Sprite: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7539,8 +7518,8 @@ Transform:
   m_GameObject: {fileID: 1082600861}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 33.35, y: -23.469028, z: -21}
-  m_LocalScale: {x: 4, y: 4, z: 1}
+  m_LocalPosition: {x: 35.1, y: -23.8, z: -11.9}
+  m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2078766722}
@@ -7581,58 +7560,58 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 25
-  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-590.5,\"yPos\":46},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CWhat was your relationship with Madame Mirage like?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-139.5,\"yPos\":354},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CWere you jealous when she ended things?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":437.5,\"yPos\":20},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C: \\n\u201CWhere were you before Madame\u2019s final performance?\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1471.5,\"yPos\":-23},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A: \\n\u201CDid you ever want her out of the way?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1462.5,\"yPos\":120},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CDid you two argue tonight? Someone heard you.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1449.5,\"yPos\":260},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CWas it just jealousy, or something more?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-543.5,\"yPos\":643},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CDid you try to get her back tonight?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-173.5,\"yPos\":662},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CWhat did you do when she rejected you?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":180.5,\"yPos\":639},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CDid you want revenge?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1168.5,\"yPos\":-139},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CDid you see anyone else backstage before the show started?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1167.5,\"yPos\":18},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-431.5,\"yPos\":46},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CWhat was your relationship with Madame Mirage like?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-4.5,\"yPos\":280},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CWere you jealous when she ended things?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":595.5,\"yPos\":20},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C: \\n\u201CWhere were you before Madame\u2019s final performance?\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1313.5,\"yPos\":-24},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A: \\n\u201CDid you ever want her out of the way?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1304.5,\"yPos\":120},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CDid you two argue tonight? Someone heard you.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1291.5,\"yPos\":260},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CWas it just jealousy, or something more?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-385.5,\"yPos\":644},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CDid you try to get her back tonight?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-15.5,\"yPos\":662},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CWhat did you do when she rejected you?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":338.5,\"yPos\":639},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CDid you want revenge?\u201D\",\"parentUIDs\":[11],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1326.5,\"yPos\":-139},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CDid you see anyone else backstage before the show started?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1323.5,\"yPos\":18},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
     B: \\n\u201CYour name came up around the lighting controls. What were you doing
-    there?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1151.5,\"yPos\":177},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CAnyone see you around that time? You have an alibi?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":-147.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\\\"Well
+    there?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1309.5,\"yPos\":177},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CAnyone see you around that time? You have an alibi?\u201D\",\"parentUIDs\":[18],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":10.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\\\"Well
     well well, look what the cat dragged in.\\\"\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter
-    Delight\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1019.5,\"yPos\":34},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CWe
-    were fire and ice, passion and pain. It was toxic\u2014beautifully so.\u201D\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1766.5,\"yPos\":-47},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighing):
+    Delight\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-862.5,\"yPos\":34},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CWe
+    were fire and ice, passion and pain. It was toxic\u2014beautifully so.\u201D\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1608.5,\"yPos\":-47},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighing):
     \u201CWant her gone? I wanted her back, more like. But I would never hurt her.
     I left her a love note in her makeup bag, just so she\u2019d know I was still
-    there, still waiting.\u201D\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1757.5,\"yPos\":106},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Bitterly):
+    there, still waiting.\u201D\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1599.5,\"yPos\":106},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Bitterly):
     \u201CArgue? We argued all the time. She liked it when I got fired up\u2014said
     it made me look more \u2018alive.\u2019 But that lipstick smear on the wall in
-    the smoking room? That\u2019s hers, from our last conversation. Go look.\u201D\",\"parentUIDs\":[6],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1775.5,\"yPos\":263},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Darkly):
+    the smoking room? That\u2019s hers, from our last conversation. Go look.\u201D\",\"parentUIDs\":[6],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1617.5,\"yPos\":263},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Darkly):
     \u201CIt was everything. She wanted to destroy me. But I was always there. Look
     for the wig cap I left behind\u2014it\u2019s got blood on it. But it\u2019s mine,
-    not hers.\u201D\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-137.5,\"yPos\":482},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CJealous?
-    No. Devastated? Yes. I didn\u2019t just lose her\u2014I lost everything.\u201D\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-572.5,\"yPos\":835},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods):
+    not hers.\u201D\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":20.5,\"yPos\":482},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CJealous?
+    No. Devastated? Yes. I didn\u2019t just lose her\u2014I lost everything.\u201D\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-413.5,\"yPos\":836},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Nods):
     \u201CI tried. But she was stubborn. So I left her a message in her favourite
     cigarette pack along with a lighter I found. It\u2019s still there if you want
-    to see how desperate I was.\u201D\",\"parentUIDs\":[12],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-179.5,\"yPos\":837},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Grimacing):
+    to see how desperate I was.\u201D\",\"parentUIDs\":[12],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-21.5,\"yPos\":837},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Grimacing):
     \u201CI just walked away. But Ginny was there. He heard everything. He might\u2019ve
     even seen me near the spotlight controls\u2014trying to calm myself. Check if
-    my prints are still there.\u201D\",\"parentUIDs\":[13],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":181.5,\"yPos\":829},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighs):
+    my prints are still there.\u201D\",\"parentUIDs\":[13],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":339.5,\"yPos\":829},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighs):
     \u201CNo\u2026 but I wanted closure. So I wrote her a goodbye message. Check
-    her lipstick message in the smoking room\u2014it was our last conversation.\u201D\",\"parentUIDs\":[14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":844.5,\"yPos\":5},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201COh,
+    her lipstick message in the smoking room\u2014it was our last conversation.\u201D\",\"parentUIDs\":[14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1002.5,\"yPos\":5},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201COh,
     darling, I was right where I was supposed to be\u2014centre of attention. But
-    people like to forget the details when it\u2019s convenient.\u201D\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1520.5,\"yPos\":-185},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Raising
+    people like to forget the details when it\u2019s convenient.\u201D\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1678.5,\"yPos\":-185},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Raising
     an Eyebrow): \u201CI did. Our little Fan-Atic was hanging around like a stray
     kitten, but she didn\u2019t look too pleased. Check the bouquet she left backstage\u2014it\u2019s
-    more of a mess than she is.\u201D\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1522.5,\"yPos\":1},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Defensive):
+    more of a mess than she is.\u201D\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1685.5,\"yPos\":8},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Defensive):
     \u201CI was trying to make her look good, alright? Not that she needed it. But
     someone tampered with the spotlight right before her act. My prints are there,
     sure\u2014but I wasn\u2019t the last one to touch it. Someone should check that
-    lighting schedule.\u201D\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1524.5,\"yPos\":183},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Scoffs):
+    lighting schedule.\u201D\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1682.5,\"yPos\":183},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Scoffs):
     \u201CAlibi? Honey, I don\u2019t need an alibi. I\u2019m Dexter Delight. But
     ask Ginny\u2014he\u2019s always watching. Besides, someone left a cigarette pack
     with a note backstage. It\u2019s not mine, but I\u2019d bet anything it\u2019s
     Ginny\u2019s handiwork.\u201D\",\"parentUIDs\":[21],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Dexter\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: Dexter
-  DefaultSprite: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
-  DefaultFont: {fileID: 0}
+  DefaultSprite: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
+  DefaultFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   NodeSerializedDataList:
   - {fileID: 2078766772}
   - {fileID: 2078766771}
@@ -7659,8 +7638,8 @@ MonoBehaviour:
   - {fileID: 2078766750}
   - {fileID: 2078766749}
   - {fileID: 2078766748}
-  ContinueFont: {fileID: 0}
-  EndConversationFont: {fileID: 0}
+  ContinueFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  EndConversationFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Event:
     m_PersistentCalls:
       m_Calls: []
@@ -8783,7 +8762,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9f82a11efae65484abe1dc082856a9d0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e413da70a9bf7144c822f0425a9c34f5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -8803,8 +8782,8 @@ Transform:
   m_GameObject: {fileID: 1395350729}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.2335281, y: -22.9, z: -3.32}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalPosition: {x: 20.1, y: -18.9, z: -3.32}
+  m_LocalScale: {x: 3.5, y: 3.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 661436351}
@@ -8823,62 +8802,62 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 25
-  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":99.6004639,\"yPos\":214.6001},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CWhat were you doing before Madame\u2019s final performance?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":398.000244,\"yPos\":228.200134},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CHow would you describe your relationship with Madame Mirage?\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":649.199463,\"yPos\":233.000122},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CWho do you think had the strongest motive tonight?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-677.7998,\"yPos\":629.8002},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CWere you backstage? Did you touch anything?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-372.4001,\"yPos\":631.4},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CDid you alter the lighting? The spotlight seemed off.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-77.19934,\"yPos\":625.800049},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CWhat about Madame\u2019s dressing room? Did you leave anything behind?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":142.8009,\"yPos\":591.3998},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CYou were like sisters, weren\u2019t you?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":297.200684,\"yPos\":684.200134},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B: \\n\u201CI heard you two had a falling out recently. What happened?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":464.400146,\"yPos\":592.1998},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CDid you want her out of the way?\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":869.9988,\"yPos\":594.6},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    A:\\n\u201CWhat about Dexter? He seemed off.\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1124.39966,\"yPos\":593},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    B:\\n\u201CHow about Ginny? Why was he so upset?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1365.2002,\"yPos\":591.3999},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
-    C:\\n\u201CAnd what\u2019s your opinion on Fan-Atic?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":410,\"yPos\":88},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201COh,
+  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-392.399536,\"yPos\":148.6001},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CWhat were you doing before Madame\u2019s final performance?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-93.9997559,\"yPos\":162.200134},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CHow would you describe your relationship with Madame Mirage?\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":156.199463,\"yPos\":168.000122},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CWho do you think had the strongest motive tonight?\u201D\",\"parentUIDs\":[0],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1169.7998,\"yPos\":563.8002},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CWere you backstage? Did you touch anything?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-864.4001,\"yPos\":566.4},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CDid you alter the lighting? The spotlight seemed off.\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-569.199341,\"yPos\":559.800049},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CWhat about Madame\u2019s dressing room? Did you leave anything behind?\u201D\",\"parentUIDs\":[4],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-349.1991,\"yPos\":525.3998},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CYou were like sisters, weren\u2019t you?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-194.799316,\"yPos\":618.200134},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B: \\n\u201CI heard you two had a falling out recently. What happened?\u201D\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-27.5998535,\"yPos\":526.1998},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CDid you want her out of the way?\",\"parentUIDs\":[5],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":376.998779,\"yPos\":528.6},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    A:\\n\u201CWhat about Dexter? He seemed off.\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":632.399658,\"yPos\":527},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    B:\\n\u201CHow about Ginny? Why was he so upset?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":872.2002,\"yPos\":525.3999},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Option
+    C:\\n\u201CAnd what\u2019s your opinion on Fan-Atic?\u201D\",\"parentUIDs\":[6],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":-82,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201COh,
     darling, you\u2019re really going to question me? I\u2019m shocked, truly. But
     go ahead, humour me.\u201D\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-73.99939,\"yPos\":384.4001},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CAh,
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-565.9994,\"yPos\":318.4001},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CAh,
     straight to the point. I was making sure everything was perfect, as usual. Someone\u2019s
     got to keep up appearances, even if it\u2019s for a lost cause like Madame Mirage.\u201D\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":304.400635,\"yPos\":432.4001},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CWe
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-187.599365,\"yPos\":366.4001},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CWe
     were\u2026 complicated. Two divas, one spotlight. You do the math, darling.\u201D\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":894.7993,\"yPos\":409.200073},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CYou
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":402.799316,\"yPos\":343.200073},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u201CYou
     mean besides me? Everyone, darling. But let\u2019s play this game anyway.\u201D\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-783.600342,\"yPos\":779.6002},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Smirking):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-1275.60034,\"yPos\":713.6002},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Smirking):
     \u201CBackstage? Sure, I was there. But I didn\u2019t lay a finger on anything.
     However, I did notice the crown and sash display case looking a little too smudgy
     for my liking. Fingerprints, darling, might tell you who\u2019s been poking around.\u201D\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-431.600037,\"yPos\":795.600342},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Laughing):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-923.600037,\"yPos\":729.600342},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Laughing):
     \u201CYou caught that? Bravo. But it wasn\u2019t me, sweetie. Dexter was fiddling
     around with the spotlight control. You might find his prints there if you\u2019re
     looking to play detective.\u201D\",\"parentUIDs\":[8],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-94.79944,\"yPos\":805.2003},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Thoughtfully):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-586.799438,\"yPos\":740.2003},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Thoughtfully):
     \u201CLeave anything? Oh no, I\u2019m not that careless. But Madame liked to
     write herself little reminders. Check her mirror in the bathroom\u2014she might
     have left a message.\u201D\",\"parentUIDs\":[9],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":94.0008545,\"yPos\":941.2009},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighing):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-397.999146,\"yPos\":875.2009},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Sighing):
     \u201COh, more than sisters. I was her mirror, her shadow. But shadows don\u2019t
     kill, darling\u2014they just reflect the truth. If you want to know how close
     we were, check her vanity. I left her a note before the show started. It\u2019s
     still in her makeup bag.\u201D\",\"parentUIDs\":[13],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":266.800537,\"yPos\":1045.20154},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Laughs
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-225.199463,\"yPos\":979.201538},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Laughs
     Bitterly): \u201CFalling out? More like I finally stood up. I was tired of being
     her lapdog. Ask the bartender, Max\u2014he saw us arguing. But don\u2019t expect
     a tearful confession from me.\u201D\",\"parentUIDs\":[14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":489.2002,\"yPos\":842.800659},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Coldly):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-2.79980469,\"yPos\":776.800659},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Coldly):
     \u201CI didn\u2019t have to want her gone; she was destroying herself just fine.
     But you know who did want her out of the way? Little Ginny Tonic, always desperate
     for attention. Check the champagne glass\u2014she tampered with something.\u201D\",\"parentUIDs\":[15],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":821.199463,\"yPos\":751.600342},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Smirking):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":331.199463,\"yPos\":683.600342},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Smirking):
     \u201COff? Try obsessed. Dexter\u2019s love turned sour a long time ago. He left
     a message in her cigarette pack in the smoking room\u2014one last little \u2018drag\u2019
     for old times\u2019 sake. Go have a look.\u201D\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1090.7998,\"yPos\":750.000366},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Dismissively):
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":598.7998,\"yPos\":684.000366},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Dismissively):
     \u201COh, Ginny\u2019s always upset. He wants what he can\u2019t have. He left
     something behind in the bathroom\u2014a pair of earrings, maybe? Find them, and
     you\u2019ll see how close things really got.\u201D\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
-    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":1423.6001,\"yPos\":753.2003},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Eye
+    Side Eye\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":931.6001,\"yPos\":687.2003},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Eye
     Roll): \u201COh, that girl\u2019s just a fan-girl turned freak show. But she\u2019s
     surprisingly good at getting backstage. She left a bouquet of roses there. The
     note inside? Definitely suspicious.\u201D\",\"parentUIDs\":[21],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Susie
@@ -10326,6 +10305,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1757742888}
+  - component: {fileID: 1757742890}
+  - component: {fileID: 1757742889}
   m_Layer: 0
   m_Name: InteractableItems
   m_TagString: Untagged
@@ -10333,14 +10314,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1757742888
-Transform:
+--- !u!224 &1757742888
+RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1757742887}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10353,6 +10333,145 @@ Transform:
   - {fileID: 1050139818}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 20, y: 5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1757742889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757742887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  m_sharedMaterial: {fileID: 3398770730718274081, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 1
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 0
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  _SortingLayer: 0
+  _SortingLayerID: 0
+  _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 1757742890}
+  m_maskType: 0
+--- !u!23 &1757742890
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757742887}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 3398770730718274081, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1759866670
 GameObject:
   m_ObjectHideFlags: 0
@@ -11241,7 +11360,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8813369322008601220, guid: f0366c6d941544adba1b8130a9eced22, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.2
+      value: 3.9
       objectReference: {fileID: 0}
     - target: {fileID: 8813369322008601220, guid: f0366c6d941544adba1b8130a9eced22, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11547,7 +11666,7 @@ Transform:
   m_GameObject: {fileID: 2005037432}
   serializedVersion: 2
   m_LocalRotation: {x: 0.22176917, y: -0, z: -0, w: 0.97509927}
-  m_LocalPosition: {x: 25.7, y: -3.37, z: -3.91}
+  m_LocalPosition: {x: 28.9, y: 0.3, z: -3.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11760,7 +11879,7 @@ Transform:
   m_GameObject: {fileID: 2009281208}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.49899212, w: 0.8666066}
-  m_LocalPosition: {x: 14.98, y: -8.5, z: -4.1}
+  m_LocalPosition: {x: 4.2, y: -8.5, z: -4.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12692,8 +12811,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 24
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766749
 MonoBehaviour:
@@ -12711,8 +12830,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 23
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766750
 MonoBehaviour:
@@ -12730,8 +12849,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 22
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766751
 MonoBehaviour:
@@ -12749,7 +12868,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 21
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766752
@@ -12768,7 +12887,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 20
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766753
@@ -12787,7 +12906,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 19
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766754
@@ -12806,8 +12925,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 18
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766755
 MonoBehaviour:
@@ -12825,8 +12944,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 17
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766756
 MonoBehaviour:
@@ -12844,8 +12963,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 16
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766757
 MonoBehaviour:
@@ -12863,8 +12982,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 15
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766758
 MonoBehaviour:
@@ -12882,7 +13001,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 14
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766759
@@ -12901,7 +13020,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 13
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766760
@@ -12920,7 +13039,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 12
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766761
@@ -12939,8 +13058,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 11
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766762
 MonoBehaviour:
@@ -12958,8 +13077,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 10
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766763
 MonoBehaviour:
@@ -12977,8 +13096,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 9
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766764
 MonoBehaviour:
@@ -12996,8 +13115,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 8
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766765
 MonoBehaviour:
@@ -13015,7 +13134,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 7
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766766
@@ -13034,7 +13153,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 6
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766767
@@ -13053,7 +13172,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 5
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766768
@@ -13072,8 +13191,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 4
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &2078766769
 MonoBehaviour:
@@ -13091,7 +13210,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 3
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766770
@@ -13110,7 +13229,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 2
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766771
@@ -13129,7 +13248,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 1
-  TMPFont: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &2078766772
@@ -13148,8 +13267,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 0
-  TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  TMPFont: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  Icon: {fileID: 21300000, guid: aca6999277e468843bb839f01d57bf72, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &2086793412
 GameObject:
@@ -13342,7 +13461,7 @@ SceneRoots:
   - {fileID: 334482033}
   - {fileID: 1271095975}
   - {fileID: 1038882232}
-  - {fileID: 1757742888}
   - {fileID: 784517748}
   - {fileID: 1064367605}
   - {fileID: 2074247356}
+  - {fileID: 1757742888}

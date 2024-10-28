@@ -1411,13 +1411,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Scene 1: Madame Mirage has just been declared dead. \n\nFind out who the
-    killer was by investigating the ballroom she dropped dead gorgeously in.\n\nClues
-    will be stored in an inventory and can be accessed by pressing [i]. \n\nYou will
-    have two chances to find the killer before you become the next victim."
+  m_text: "Madame Mirage has just been declared dead. \n\nYour mission is to find
+    out who the killer was by investigating the ballroom she dropped dead gorgeously
+    in.\n\nClues will be stored in an inventory and can be accessed by pressing [
+    i ]. \n\nYou will have two chances to find the killer before you become the next
+    victim."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e95f9e40bd1024ca9a94956ba9783f2c, type: 2}
-  m_sharedMaterial: {fileID: 2052675879307914023, guid: e95f9e40bd1024ca9a94956ba9783f2c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
+  m_sharedMaterial: {fileID: 3398770730718274081, guid: b8b57a4712bbf894f9705e6adf9071c8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1477,7 +1478,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 21.079163, y: 0, z: -1548.2834, w: -243.55768}
+  m_margin: {x: 793.52386, y: -12.354614, z: -1548.2834, w: -243.55768}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1507,7 +1508,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -765, y: -219}
+  m_AnchoredPosition: {x: -775, y: -192}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1516196683796975699
