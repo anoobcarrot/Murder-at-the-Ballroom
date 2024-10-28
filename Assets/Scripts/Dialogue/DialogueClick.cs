@@ -5,7 +5,7 @@ public class DialogueClick : MonoBehaviour
 {
     [SerializeField] private NPCConversation Conversation;
     [SerializeField] private string dialogueKey = "DialogueTriggered"; // Public key for PlayerPrefs
-    private bool isDialoguePressed;
+    [SerializeField] private bool isDialoguePressed;
 
     private void Start()
     {
@@ -15,8 +15,14 @@ public class DialogueClick : MonoBehaviour
 
     private void OnMouseOver()
     {
+        Debug.Log("Mouse is hovering over" + gameObject.name);
+
         if (Input.GetMouseButtonDown(0) && !isDialoguePressed)
         {
+            Debug.Log("You have pressed on" + gameObject.name);
+
+
+
             ConversationManager.Instance.StartConversation(Conversation);
             isDialoguePressed = true;
 
