@@ -6,8 +6,9 @@ public class InventoryController : MonoBehaviour
 {
     [SerializeField] private GameObject inventoryPanel;
     [SerializeField] private KeyCode toggleKey = KeyCode.I;
-
+    [SerializeField] private GameObject clickableObject; // Reference to the clickable object
     private bool isInventoryOpen = false;
+    private Camera mainCamera;
 
     private void Start()
     {
@@ -16,14 +17,38 @@ public class InventoryController : MonoBehaviour
         {
             inventoryPanel.SetActive(false);
         }
+
+        // Get reference to main camera
+        mainCamera = Camera.main;
     }
 
     private void Update()
     {
-        // Check for input
+        // Check for key input
         if (Input.GetKeyDown(toggleKey))
         {
             ToggleInventory();
+        }
+
+        // Check for mouse click
+        if (Input.GetMouseButtonDown(0)) // Left mouse click
+        {
+            CheckClickableObject();
+        }
+    }
+
+    private void CheckClickableObject()
+    {
+        Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit;
+
+        if (Physics.Raycast(ray, out hit))
+        {
+            // Check if we hit the designated clickable object
+            if (hit.collider.gameObject == clickableObject)
+            {
+                ToggleInventory();
+            }
         }
     }
 
@@ -33,13 +58,11 @@ public class InventoryController : MonoBehaviour
         {
             isInventoryOpen = !isInventoryOpen;
             inventoryPanel.SetActive(isInventoryOpen);
-
             // Optional: Pause game when inventory is open
             // Time.timeScale = isInventoryOpen ? 0f : 1f;
-
             // Optional: Control cursor visibility and lock state
-         //   Cursor.visible = isInventoryOpen;
-          //  Cursor.lockState = isInventoryOpen ? CursorLockMode.None : CursorLockMode.Locked;
+            // Cursor.visible = isInventoryOpen;
+            // Cursor.lockState = isInventoryOpen ? CursorLockMode.Locked : CursorLockMode.None;
         }
         else
         {
@@ -47,7 +70,6 @@ public class InventoryController : MonoBehaviour
         }
     }
 
-    // Public method to close inventory from other scripts if needed
     public void CloseInventory()
     {
         if (isInventoryOpen)
@@ -56,7 +78,6 @@ public class InventoryController : MonoBehaviour
         }
     }
 
-    // Public method to check if inventory is open from other scripts
     public bool IsInventoryOpen()
     {
         return isInventoryOpen;
