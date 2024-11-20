@@ -86,9 +86,9 @@ GameObject:
   - component: {fileID: 8571319725747907823}
   - component: {fileID: 1802736731512361842}
   - component: {fileID: 7261719914943213674}
-  - component: {fileID: 8292696716619396358}
+  - component: {fileID: 4757951208579308851}
   m_Layer: 5
-  m_Name: ItemSlot
+  m_Name: CharacterSlot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -114,7 +114,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 300, y: 400}
+  m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1802736731512361842
 CanvasRenderer:
@@ -137,14 +137,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9ce4517a199caa547aea650b1f8d8e7d, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -154,7 +154,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &8292696716619396358
+--- !u!114 &4757951208579308851
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -163,13 +163,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 4405137636231299275}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87c68482714095d40aaf4124289763d7, type: 3}
+  m_Script: {fileID: 11500000, guid: 134fce80c1513a7469dc51ff4831f282, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slotImage: {fileID: 7261719914943213674}
-  itemImage: {fileID: 1197326921203671759}
-  selectedPanel: {fileID: 393701508835537757}
-  itemLabel: {fileID: 4640971150127020935}
+  characterImage: {fileID: 1197326921203671759}
+  characterName: {fileID: 4640971150127020935}
+  selectedPanel: {fileID: 3709619405808191601}
 --- !u!1 &4449225773470554439
 GameObject:
   m_ObjectHideFlags: 0
@@ -182,7 +181,7 @@ GameObject:
   - component: {fileID: 8787526156629167523}
   - component: {fileID: 4640971150127020935}
   m_Layer: 5
-  m_Name: ItemName
+  m_Name: ItemLabel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -205,7 +204,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: 0, y: -80}
-  m_SizeDelta: {x: 0, y: 50}
+  m_SizeDelta: {x: 150, y: 50}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &8787526156629167523
 CanvasRenderer:
