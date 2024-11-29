@@ -5,11 +5,13 @@ using UnityEngine.UI;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
+
 public class ImageSequenceController : MonoBehaviour
 {
     public Image[] imageSequence; // Array to hold all images in sequence
     public float transitionDuration = 1.0f; // Duration of fade transition
     public Image transitionOverlay; // Transition overlay image
+    public string nextSceneName; // Name of the scene to load after image sequence
 
     private CanvasGroup transitionCanvasGroup;
     private int currentImageIndex = 0;
@@ -41,6 +43,11 @@ public class ImageSequenceController : MonoBehaviour
         {
             StartCoroutine(TransitionToNextImage());
         }
+        else
+        {
+            // If all images have been shown, load the next scene
+            StartCoroutine(TransitionToNextScene());
+        }
     }
 
     private IEnumerator TransitionToNextImage()
@@ -61,6 +68,25 @@ public class ImageSequenceController : MonoBehaviour
         while (transitionCanvasGroup.alpha > 0)
         {
             transitionCanvasGroup.alpha -= Time.deltaTime / transitionDuration;
+            yield return null;
+        }
+    }
+
+    private IEnumerator TransitionToNextScene()
+    {
+        // Fade to black
+        while (transitionCanvasGroup.alpha < 1)
+        {
+            transitionCanvasGroup.alpha += Time.deltaTime / transitionDuration;
+            yield return null;
+        }
+
+        // Load the next scene
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(nextSceneName);
+
+        // Wait until the scene is fully loaded
+        while (!asyncLoad.isDone)
+        {
             yield return null;
         }
     }

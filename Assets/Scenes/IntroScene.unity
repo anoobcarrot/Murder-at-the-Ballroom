@@ -748,6 +748,7 @@ MonoBehaviour:
   - {fileID: 1557955780}
   transitionDuration: 1
   transitionOverlay: {fileID: 1501286424}
+  nextSceneName: 2D_BallroomScene
 --- !u!224 &1978540094 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1128095614458306515, guid: 09a8c7156394b4c36b11fe90fa261ab1, type: 3}
