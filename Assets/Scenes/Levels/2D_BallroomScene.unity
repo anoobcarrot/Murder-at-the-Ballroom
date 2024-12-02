@@ -4409,6 +4409,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b2c44ba0480c14f9e166c45ad96e2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  winSceneName: WinScene
+  loseSceneName: LoseScene
   characterSlotPrefab: {fileID: 4757951208579308851, guid: 36892f76024e69841a1da0d997b145be, type: 3}
   slotsParent: {fileID: 1063268238}
   charactersData:

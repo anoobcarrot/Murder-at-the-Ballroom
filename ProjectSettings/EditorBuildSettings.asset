@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScene.unity
     guid: 0d7d09c392d044c40a4d638056852e5d
   - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 24fc72760d5bb394b9f00eec7d6a6964
+  - enabled: 1
     path: Assets/Scenes/Levels/2D_BallroomScene.unity
     guid: a5ab37e957f7ce04886ca3266b582033
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: f9130892d15622842a2b64b1f790c0b6
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: db4f96ff78a4b824a8906f4bd8950e3d
   m_configObjects: {}

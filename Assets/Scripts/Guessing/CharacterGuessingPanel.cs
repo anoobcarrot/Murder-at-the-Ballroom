@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using TMPro;
+using UnityEngine.SceneManagement; // Add this for scene management
 
 public class CharacterGuessingPanel : MonoBehaviour
 {
@@ -13,6 +14,10 @@ public class CharacterGuessingPanel : MonoBehaviour
         public string name;
         public Sprite portrait;
     }
+
+    [Header("Scene Names")]
+    public string winSceneName = "WinScene"; // Name of the win scene
+    public string loseSceneName = "LoseScene"; // Name of the lose scene
 
     public CharacterSlot characterSlotPrefab;
     public Transform slotsParent;
@@ -89,8 +94,6 @@ public class CharacterGuessingPanel : MonoBehaviour
     {
         if (remainingGuesses <= 0) return;
 
-        Debug.Log("Slot clicked"); // Debug log
-
         // If clicking the same slot that's already selected, deselect it
         if (currentlySelectedSlot == clickedSlot)
         {
@@ -100,7 +103,6 @@ public class CharacterGuessingPanel : MonoBehaviour
             {
                 confirmButton.gameObject.SetActive(false);
             }
-            Debug.Log("Deselected slot"); // Debug log
             return;
         }
 
@@ -117,16 +119,12 @@ public class CharacterGuessingPanel : MonoBehaviour
         {
             confirmButton.gameObject.SetActive(true);
         }
-        Debug.Log("Selected new slot"); // Debug log
     }
 
     public void ConfirmGuess()
     {
-        Debug.Log("ConfirmGuess called"); // Debug log
-
         if (currentlySelectedSlot == null || remainingGuesses <= 0)
         {
-            Debug.Log("No slot selected or no guesses remaining");
             return;
         }
 
@@ -134,15 +132,16 @@ public class CharacterGuessingPanel : MonoBehaviour
         UpdateGuessesText();
 
         int guessIndex = characterSlots.IndexOf(currentlySelectedSlot);
-        Debug.Log($"Guessed index: {guessIndex}, Killer index: {killerIndex}"); // Debug log
 
         if (guessIndex == killerIndex)
         {
-            GameOver(true);
+            // Transition to Win Scene
+            SceneManager.LoadScene(winSceneName);
         }
         else if (remainingGuesses <= 0)
         {
-            GameOver(false);
+            // Transition to Lose Scene
+            SceneManager.LoadScene(loseSceneName);
         }
         else
         {
@@ -164,31 +163,10 @@ public class CharacterGuessingPanel : MonoBehaviour
         }
     }
 
-    void GameOver(bool won)
-    {
-        if (gameOverPanel != null)
-        {
-            gameOverPanel.SetActive(true);
-        }
-
-        if (confirmButton != null)
-        {
-            confirmButton.gameObject.SetActive(false);
-        }
-
-        if (resultText != null)
-        {
-            resultText.text = won ?
-                "Congratulations! You found the killer!" :
-                $"Game Over! The killer was {charactersData[killerIndex].name}!";
-        }
-
-        // Show killer's selected panel at the end
-        characterSlots[killerIndex].ShowSelectedPanel(true);
-    }
+    // Removed GameOver method as scene transitions replace its functionality
 
     public void RestartGame()
     {
-        InitializeGame();
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
