@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class InventoryController : MonoBehaviour
 {
@@ -9,13 +11,21 @@ public class InventoryController : MonoBehaviour
     [SerializeField] private KeyCode toggleInventoryKey = KeyCode.I;
     [SerializeField] private GameObject clickableInventoryObject;
     [SerializeField] private GameObject clickableGuessingMenuObject; // New clickable object for guessing menu
+    [SerializeField] private Canvas canvas;
 
     private bool isInventoryOpen = false;
     private bool isGuessingMenuOpen = false;
     private Camera mainCamera;
+    private GraphicRaycaster graphicRaycaster;
+    private PointerEventData pointerEventData;
+    private EventSystem eventSystem;
 
     private void Start()
     {
+        // Get the required components
+        graphicRaycaster = canvas.GetComponent<GraphicRaycaster>();
+        eventSystem = EventSystem.current;
+
         // Ensure panels start closed
         if (inventoryPanel != null)
             inventoryPanel.SetActive(false);
@@ -43,22 +53,61 @@ public class InventoryController : MonoBehaviour
 
     private void CheckClickableObjects()
     {
-        Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
-        RaycastHit hit;
-        if (Physics.Raycast(ray, out hit))
+        // Step 1: Check for UI elements using GraphicRaycaster
+        if (IsPointerOverUIElement(out GameObject clickedUIObject))
         {
-            // Check if we hit the inventory clickable object
+            if (clickedUIObject == clickableInventoryObject)
+            {
+                ToggleInventory();
+                return;
+            }
+
+            if (clickedUIObject == clickableGuessingMenuObject)
+            {
+                ToggleGuessingMenu();
+                return;
+            }
+        }
+
+        Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
+        if (Physics.Raycast(ray, out RaycastHit hit))
+        {
             if (hit.collider.gameObject == clickableInventoryObject)
             {
                 ToggleInventory();
             }
 
-            // Check if we hit the guessing menu clickable object
             if (hit.collider.gameObject == clickableGuessingMenuObject)
             {
                 ToggleGuessingMenu();
             }
         }
+    }
+
+    private bool IsPointerOverUIElement(out GameObject clickedObject)
+    {
+        // Create a PointerEventData for the current mouse position
+        pointerEventData = new PointerEventData(eventSystem)
+        {
+            position = Input.mousePosition
+        };
+
+        // Raycast using the GraphicRaycaster
+        var results = new System.Collections.Generic.List<RaycastResult>();
+        graphicRaycaster.Raycast(pointerEventData, results);
+
+        // Check if any of the results match our target UI elements
+        foreach (var result in results)
+        {
+            if (result.gameObject == clickableInventoryObject || result.gameObject == clickableGuessingMenuObject)
+            {
+                clickedObject = result.gameObject;
+                return true;
+            }
+        }
+
+        clickedObject = null;
+        return false;
     }
 
     public void ToggleInventory()
