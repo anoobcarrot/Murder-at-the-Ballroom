@@ -10,6 +10,14 @@ public class DialogueClick : MonoBehaviour
     private void Start()
     {
         // Check if the dialogue has already been triggered
+        Debug.LogWarning("isDialoguePressed is currently [" + isDialoguePressed + "] BEFORE setting it.");
+        Debug.LogWarning("PlayerPrefs isDialoguePressed is currently [" + PlayerPrefs.GetInt(dialogueKey, 0) + "] BEFORE setting it.");
+
+        PlayerPrefs.SetInt(dialogueKey, 0);
+
+        Debug.LogWarning("isDialoguePressed is currently [" + isDialoguePressed + "] AFTER setting it.");
+        Debug.LogWarning("PlayerPrefs isDialoguePressed is currently [" + PlayerPrefs.GetInt(dialogueKey, 0) + "] AFTER setting it.");
+
         isDialoguePressed = PlayerPrefs.GetInt(dialogueKey, 0) == 1;
     }
 
