@@ -15,5 +15,6 @@ MonoBehaviour:
   item:
     itemName: Spotlight Control Panel
     itemDescription: A small console used to control the lighting for the show.
+    itemClue: A small console used to control the lighting for the show.
     itemIcon: {fileID: 21300000, guid: 312c53431b99f844aaeb678efa26a615, type: 3}
     maxStackSize: 1

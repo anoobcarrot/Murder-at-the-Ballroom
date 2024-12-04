@@ -17,5 +17,7 @@ MonoBehaviour:
     itemDescription: "One card shows a surprisingly low score for Madame Mirage,
       with a handwritten note saying: \u201COut of touch, pass\xE9. Time to pass
       the crown.\u201D"
+    itemClue: "One card shows a surprisingly low score for Madame Mirage, with a
+      handwritten note saying: \u201COut of touch, pass\xE9. Time to pass the crown.\u201D"
     itemIcon: {fileID: 21300000, guid: ae9678c04fa573f4fb155a6323f64dff, type: 3}
     maxStackSize: 1

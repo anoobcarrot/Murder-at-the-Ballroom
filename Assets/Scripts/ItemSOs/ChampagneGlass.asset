@@ -15,5 +15,6 @@ MonoBehaviour:
   item:
     itemName: Champagne Glass
     itemDescription: A half-empty glass with lipstick stains found on the bar.
-    itemIcon: {fileID: 0}
-    maxStackSize: 0
+    itemClue: A half-empty glass with lipstick stains found on the bar.
+    itemIcon: {fileID: 21300000, guid: 2f364bef59156924793f9cd56905e58a, type: 3}
+    maxStackSize: 1

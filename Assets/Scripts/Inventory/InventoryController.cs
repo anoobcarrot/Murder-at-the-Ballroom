@@ -13,7 +13,7 @@ public class InventoryController : MonoBehaviour
     [SerializeField] private GameObject clickableGuessingMenuObject; // New clickable object for guessing menu
     [SerializeField] private Canvas canvas;
 
-    private bool isInventoryOpen = false;
+    [SerializeField] private bool isInventoryOpen = false;
     private bool isGuessingMenuOpen = false;
     private Camera mainCamera;
     private GraphicRaycaster graphicRaycaster;
@@ -28,7 +28,12 @@ public class InventoryController : MonoBehaviour
 
         // Ensure panels start closed
         if (inventoryPanel != null)
-            inventoryPanel.SetActive(false);
+        {
+            // AG: Using the ToggleInventory() method instead of forcing the panel inactive
+            //     so that the item slots show images correctly if an item is picked up before the inventory is opened.
+            //inventoryPanel.SetActive(false);
+            ToggleInventory();
+        }
 
         if (guessingMenuPanel != null)
             guessingMenuPanel.SetActive(false);
@@ -120,6 +125,12 @@ public class InventoryController : MonoBehaviour
 
             isInventoryOpen = !isInventoryOpen;
             inventoryPanel.SetActive(isInventoryOpen);
+
+            // AG: Show all the item images.
+            //if(inventoryPanel.activeSelf == true)
+            //{
+            //    gameObject.GetComponent<Inventory>().ShowAllUISlots();
+            //}
         }
         else
         {
