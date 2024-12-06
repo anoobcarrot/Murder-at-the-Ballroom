@@ -13,11 +13,12 @@ MonoBehaviour:
   m_Name: JudgesScoreCards
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
-    itemName: Judges Score Cards
-    itemDescription: "One card shows a surprisingly low score for Madame Mirage,
-      with a handwritten note saying: \u201COut of touch, pass\xE9. Time to pass
-      the crown.\u201D"
-    itemClue: "One card shows a surprisingly low score for Madame Mirage, with a
-      handwritten note saying: \u201COut of touch, pass\xE9. Time to pass the crown.\u201D"
+    itemName: Score Cards
+    itemDescription: A stack of scorecards on the judges table
+    itemClue: "A stack of scorecards on the judges\u2019 table. One card shows a
+      surprisingly low score for Madame Mirage, with a handwritten note: \u201COut
+      of touch, pass\xE9. Time to pass the crown.\u201D The tone of the note suggests
+      frustration and ambition, pointing to someone eager to change the status quo
+      in the ballroom hierarchy."
     itemIcon: {fileID: 21300000, guid: ae9678c04fa573f4fb155a6323f64dff, type: 3}
     maxStackSize: 1

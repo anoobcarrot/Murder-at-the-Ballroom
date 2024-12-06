@@ -14,9 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
     itemName: Crown and Sash
-    itemDescription: ' A glass case holding the crown and sash meant for the winner
-      of the night.'
-    itemClue: ' A glass case holding the crown and sash meant for the winner of the
-      night.'
+    itemDescription: "A glass case holding the crown and sash meant for the night\u2019s
+      winner."
+    itemClue: "A glass case holding the crown and sash meant for the night\u2019s
+      winner. A faint fingerprint smudge is found on the glass, and the combination
+      to open it is \u201CSusie Side-Eye.\u201D The smudge suggests the case was
+      recently accessed by someone who had knowledge of its code, implying familiarity
+      with the inner workings of the event."
     itemIcon: {fileID: 21300000, guid: 5eafc8ec2c5c4f1409d614cd72ec9ba0, type: 3}
     maxStackSize: 1

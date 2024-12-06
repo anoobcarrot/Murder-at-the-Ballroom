@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
     itemName: Spotlight Control Panel
-    itemDescription: A small console used to control the lighting for the show.
-    itemClue: A small console used to control the lighting for the show.
+    itemDescription: A small console used to control the lighting for the show
+    itemClue: "The lighting schedule was altered moments before the performance.
+      The logs indicate that the adjustments were made under \u201CS.S.Eye.\u201D
+      The initials and timing suggest involvement from someone in a position of authority
+      over the night\u2019s production."
     itemIcon: {fileID: 21300000, guid: 312c53431b99f844aaeb678efa26a615, type: 3}
     maxStackSize: 1

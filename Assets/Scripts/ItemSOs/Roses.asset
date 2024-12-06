@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Roses
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
-    itemName: Roses
-    itemDescription: Roses addressed to the victim, with a note that says "break
-      a leg"
-    itemClue: Roses addressed to the victim, with a note that says "break a leg"
+    itemName: Bouquet of Roses
+    itemDescription: "A bouquet placed near the stage exit with a card that says:
+      \u201CBreak a leg, love!\u201D"
+    itemClue: 'The roses are laced with a subtle but identifiable sedative. The presence
+      of the sedative points to someone with knowledge of or access to such substances,
+      potentially indicating premeditated sabotage. '
     itemIcon: {fileID: 21300000, guid: 546cd3022770dfa4394e61d1d4a3ae23, type: 3}
     maxStackSize: 1

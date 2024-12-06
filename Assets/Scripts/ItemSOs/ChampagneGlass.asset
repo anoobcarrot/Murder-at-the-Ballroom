@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemScriptableObject
   item:
     itemName: Champagne Glass
-    itemDescription: A half-empty glass with lipstick stains found on the bar.
-    itemClue: A half-empty glass with lipstick stains found on the bar.
+    itemDescription: A half-empty glass with lipstick stains
+    itemClue: "A half-empty glass with lipstick stains. Crushed pills are found at
+      the bottom, faintly dissolving in the remaining liquid. The tampered drink
+      points to someone with both access to the judges\u2019 table and the means
+      to acquire and administer the substance discreetly."
     itemIcon: {fileID: 21300000, guid: 2f364bef59156924793f9cd56905e58a, type: 3}
     maxStackSize: 1
