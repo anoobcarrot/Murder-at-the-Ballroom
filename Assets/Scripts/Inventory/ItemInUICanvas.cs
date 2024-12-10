@@ -11,7 +11,6 @@ public class ItemInUICanvas : MonoBehaviour, IPointerClickHandler
     public Image slotImage;
     public Image itemImage;
     public Image selectedPanel;
-    public TextMeshProUGUI itemLabel;
 
     private Item currentItem;
     private int currentQuantity;
@@ -19,7 +18,6 @@ public class ItemInUICanvas : MonoBehaviour, IPointerClickHandler
     private void Awake()
     {
         itemImage.gameObject.SetActive(false);
-        itemLabel.gameObject.SetActive(false);
         selectedPanel.gameObject.SetActive(false);
     }
 
@@ -38,12 +36,6 @@ public class ItemInUICanvas : MonoBehaviour, IPointerClickHandler
                 itemImage.sprite = item.itemIcon;
             }
 
-            if (itemLabel != null)
-            {
-                itemLabel.gameObject.SetActive(true);
-                itemLabel.enabled = true;
-                itemLabel.text = $"{item.itemName} ({quantity})";
-            }
 
             // Disable the slot image last
             if (slotImage != null)
@@ -56,7 +48,6 @@ public class ItemInUICanvas : MonoBehaviour, IPointerClickHandler
 
             // Debug output to check states
             Debug.Log($"Item Image Active: {itemImage.gameObject.activeSelf}, Enabled: {itemImage.enabled}");
-            Debug.Log($"Item Label Active: {itemLabel.gameObject.activeSelf}, Enabled: {itemLabel.enabled}");
         }
         else
         {
@@ -69,7 +60,6 @@ public class ItemInUICanvas : MonoBehaviour, IPointerClickHandler
         currentItem = null;
         currentQuantity = 0;
         itemImage.gameObject.SetActive(false);
-        itemLabel.gameObject.SetActive(false);
         slotImage.enabled = true;
     }
 
