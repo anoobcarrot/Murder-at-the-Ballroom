@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Interactable
   - NPCImage
+  - Dialogue Button
   layers:
   - Default
   - TransparentFX

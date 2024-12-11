@@ -15,7 +15,9 @@ public class DraggableCamera : MonoBehaviour
     private Vector3 lastMousePosition;
     private float rotationY = 0f;
     private bool isDragging = false;
+    private bool isActuallyDragging = false; // New flag to differentiate a click from a drag
     private Quaternion initialRotation;
+    private const float dragThreshold = 5f; // Minimum pixel movement to start dragging
 
     private void Start()
     {
@@ -28,34 +30,47 @@ public class DraggableCamera : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             isDragging = true;
+            isActuallyDragging = false; // Reset actual dragging flag
             lastMousePosition = Input.mousePosition;
         }
         else if (Input.GetMouseButtonUp(0))
         {
             isDragging = false;
+            isActuallyDragging = false; // Reset when mouse is released
         }
 
         if (isDragging)
         {
-            Vector3 deltaMouse = Input.mousePosition - lastMousePosition;
-            float mouseX = deltaMouse.x * dragSpeed * Time.deltaTime;
+            Vector3 currentMousePosition = Input.mousePosition;
+            Vector3 deltaMouse = currentMousePosition - lastMousePosition;
 
-            if (invertDrag)
+            // Check if drag threshold is exceeded to treat it as an actual drag
+            if (!isActuallyDragging && deltaMouse.magnitude > dragThreshold)
             {
-                mouseX = -mouseX;
+                isActuallyDragging = true;
             }
 
-            // Calculate rotation
-            rotationY += mouseX;
+            if (isActuallyDragging)
+            {
+                float mouseX = deltaMouse.x * dragSpeed * Time.deltaTime;
 
-            // Clamp horizontal rotation
-            float clampedRotationY = Mathf.Clamp(rotationY - initialRotation.eulerAngles.y, minHorizontalAngle, maxHorizontalAngle);
-            rotationY = clampedRotationY + initialRotation.eulerAngles.y;
+                if (invertDrag)
+                {
+                    mouseX = -mouseX;
+                }
 
-            // Apply rotation to the camera (only around Y-axis)
-            transform.rotation = Quaternion.Euler(initialRotation.eulerAngles.x, rotationY, initialRotation.eulerAngles.z);
+                // Calculate rotation
+                rotationY += mouseX;
 
-            lastMousePosition = Input.mousePosition;
+                // Clamp horizontal rotation
+                float clampedRotationY = Mathf.Clamp(rotationY - initialRotation.eulerAngles.y, minHorizontalAngle, maxHorizontalAngle);
+                rotationY = clampedRotationY + initialRotation.eulerAngles.y;
+
+                // Apply rotation to the camera (only around Y-axis)
+                transform.rotation = Quaternion.Euler(initialRotation.eulerAngles.x, rotationY, initialRotation.eulerAngles.z);
+            }
+
+            lastMousePosition = currentMousePosition;
         }
     }
 
@@ -69,3 +84,6 @@ public class DraggableCamera : MonoBehaviour
         invertDrag = invert;
     }
 }
+
+
+
