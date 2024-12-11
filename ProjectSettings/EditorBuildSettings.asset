@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/2D_BallroomScene.unity
     guid: a5ab37e957f7ce04886ca3266b582033
+  - enabled: 1
+    path: Assets/Scenes/Levels/BallroomScene.unity
+    guid: 118db83cf85454f71990dc2f6d6acecd
   m_configObjects: {}
