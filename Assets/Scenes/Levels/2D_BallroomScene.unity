@@ -3829,8 +3829,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Conversation: {fileID: 286783700}
-  dialogueKey: Fan_Atic
-  isDialoguePressed: 0
+  dialogueCanvas: {fileID: 0}
 --- !u!1001 &321956972
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4409,6 +4408,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b2c44ba0480c14f9e166c45ad96e2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  winSceneName: WinScene
+  loseSceneName: LoseScene
   characterSlotPrefab: {fileID: 4757951208579308851, guid: 36892f76024e69841a1da0d997b145be, type: 3}
   slotsParent: {fileID: 1063268238}
   charactersData:
@@ -4420,8 +4421,8 @@ MonoBehaviour:
     portrait: {fileID: 21300000, guid: 27c8408a1ff985848a71a3159ab2539d, type: 3}
   - name: Fan Atic
     portrait: {fileID: 21300000, guid: 0a8b62a5c2d4f8441af58f9981f68853, type: 3}
-  killerIndex: 2
-  maxGuesses: 3
+  killerIndex: 1
+  maxGuesses: 2
   guessesRemainingText: {fileID: 1644287624}
   resultText: {fileID: 2105276728}
   gameOverPanel: {fileID: 502095351}
@@ -4571,8 +4572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Conversation: {fileID: 361401384}
-  dialogueKey: Ginny_Tonic
-  isDialoguePressed: 0
+  dialogueCanvas: {fileID: 0}
 --- !u!64 &361401386
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8199,8 +8199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Conversation: {fileID: 1082600865}
-  dialogueKey: Dexter_Delight
-  isDialoguePressed: 0
+  dialogueCanvas: {fileID: 0}
 --- !u!1 &1093384362
 GameObject:
   m_ObjectHideFlags: 0
@@ -8623,6 +8622,8 @@ MonoBehaviour:
   toggleInventoryKey: 105
   clickableInventoryObject: {fileID: 1969859070}
   clickableGuessingMenuObject: {fileID: 1471231759}
+  canvas: {fileID: 0}
+  isInventoryOpen: 0
 --- !u!1 &1206425939
 GameObject:
   m_ObjectHideFlags: 0
@@ -9601,8 +9602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Conversation: {fileID: 1395350732}
-  dialogueKey: Susie_Side_Eye
-  isDialoguePressed: 0
+  dialogueCanvas: {fileID: 0}
 --- !u!1 &1398413003
 GameObject:
   m_ObjectHideFlags: 0
