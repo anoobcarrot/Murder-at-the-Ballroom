@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using TMPro;
-using UnityEngine.SceneManagement; // Add this for scene management
+using UnityEngine.SceneManagement;
 
 public class CharacterGuessingPanel : MonoBehaviour
 {
